@@ -1,0 +1,16 @@
+.container {
+  min-width: 1024px;
+}
+
+.trophies {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.trophy {
+  width: 32%;
+}
+
+.trophy {
+  margin: 0 34% 30px 34%;
+}
